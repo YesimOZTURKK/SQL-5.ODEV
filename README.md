@@ -1,0 +1,2 @@
+# SQL-5.ODEV
+SQL 5. ÖDEV EĞİTİMİ
